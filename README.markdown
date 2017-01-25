@@ -7,13 +7,13 @@ The output can be viewed also with Microsoft Excel *xlsx format* as well as with
 
 **Main UI**
 
-![img1.png](img/img1.png "")
+![img1.png](img/img1.PNG "")
 
 **Input xlsx**
 
-![img2.png](img/img2.png "")
+![img2.png](img/img2.PNG "")
 
 **Output doc**
 
-![img3.png](img/img3.png "")
+![img3.png](img/img3.PNG "")
 
